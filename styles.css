@@ -1,7 +1,7 @@
 body {
        width:100%;
        max-width: 1024px;
-       margin:0 auto;
+       margin: 0px auto;
        font-size: 120%;
        background-image: url()
        
@@ -9,9 +9,9 @@ body {
 }
 
 
-header,
+
 main {
-    background-color: rgb(27, 99, 99);
+    background-color: red;
 }
 
 header {
@@ -40,3 +40,7 @@ p.Bone {
 }#testp {
     color: green;
  }
+#mainHeading {
+    color:red
+}
+ 
