@@ -1,46 +1,30 @@
-body {
-       width:100%;
-       max-width: 1024px;
-       margin: 0px auto;
-       font-size: 120%;
-       background-image: url()
-       
-       
-}
+p {
+    margin: 0px 100px 75px 0px;
+  }
+  div {
+    padding: 0px 100px 75px 0px;
+  }
+  p {
+    background-color: yellow;
+  }
+  body {
+    margin: 8px;
+    display: block;
+  }
+  #mainHeading {
+      color: red;
+  }
+  #testP.funParagraph {
+    color:green;
+  }
 
 
 
-main {
-    background-color: red;
-}
 
-header {
-    padding: 2em 0;
-}
- h1{
-    text-align: center;
-	font-size: 2.5em;
-	padding: 0 0 0.6em 0;
-    text-decoration: wavy;
-    color: rgb(119, 139, 226);
-}
 
-h2 {
-	padding: 0.1em 0 0.1em 0.5em;
-	background: rgb(224, 68, 68);
-	color: #e0de3e; 
-	font-size: 1.3em;
-}
 
-section {
-	margin: 1.8em 0;
-}
-p.Bone {
-	color: rgb(221, 86, 86);
-}#testp {
-    color: green;
- }
-#mainHeading {
-    color:red
-}
- 
+
+
+
+
+
